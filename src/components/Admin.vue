@@ -45,7 +45,8 @@ export default {
         },
         set(){}
         
-      }
+      },
+
     },
     components:{
         "app-new-pizza":NewPizza,

@@ -10,8 +10,10 @@ axios.defaults.baseURL = 'https://wd9985185382vlksfw.wilddogio.com/'
 Vue.prototype.axios=axios
 
 Vue.config.productionTip = false
-// 全局守卫
-// router.beforeEach((to, from, next) => {
+
+
+//全局守卫
+//router.beforeEach((to, from, next) => {
 //   /* alert('还没有登录,请先登录!!!');
 //   next(); */
 //   // 判断store.getters.isLogin === false
