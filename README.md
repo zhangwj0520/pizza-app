@@ -1,3 +1,5 @@
+https://zhangwj0520.github.io/pizza-app/dist/index.html
+
 # pizza-app
 
 ## Project setup
