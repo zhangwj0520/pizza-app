@@ -5,15 +5,15 @@
  已经注册测试账号：test1@qq.com/test1
 
 ## 说明
-使用vue-cli3.0构建项目,实现的一个pizza点餐系统,管理页面使用导航守卫需要登录
-1. 主要使用vuex管理各个组件件的数据及状态,
-2. 数据存储使用的是野狗云,
-3. 数据请求使用的axios,
+1. 本系统为一个简单的pizza点餐系统
+2. 主要功能有: 用户登录注册,主要分为主页,菜单页,管理页,可以实现登录,注册,点餐计价,管理实物种类价格等功能
+3. 主要技术栈: vue-cli3.0 vuex vue-router axios
 
 ## 使用
 ```
 git https://github.com/zhangwj0520/pizza-app
-cd node-app
+cd pizza-app
 npm install
 npm run serve
 npm run build
+```
