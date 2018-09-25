@@ -10,7 +10,7 @@
 2. 数据存储使用的是野狗云,
 3. 数据请求使用的axios,
 
-# 使用
+## 使用
 ```
 git https://github.com/zhangwj0520/pizza-app
 cd node-app
