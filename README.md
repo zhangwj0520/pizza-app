@@ -4,8 +4,7 @@
 
 [pizza-app](http://www.zhangweijie.com.cn/pizza)
 
-[dome](http://www.zhangweijie.com.cn/pizza)
- 已经注册测试账号：test1@qq.com/test1
+ 已经注册测试账号：test@qq.com/test
 
 ## 说明
 1. 本系统为一个简单的pizza点餐系统
