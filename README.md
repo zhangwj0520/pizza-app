@@ -1,7 +1,10 @@
 # pizza-app
 
 ## 演示地址
+
 [pizza-app](http://www.zhangweijie.com.cn/pizza)
+
+[dome](http://www.zhangweijie.com.cn/pizza)
  已经注册测试账号：test1@qq.com/test1
 
 ## 说明
